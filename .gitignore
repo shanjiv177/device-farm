@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+venv*/
+
+
+
+.vscode/
+
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment / secrets
+.env
+.env.*
+
+# Node / frontend
+devfarm-frontend/node_modules/
+devfarm-frontend/dist/
+devfarm-frontend/build/
+devfarm-frontend/.env.local
+devfarm-frontend/.env.*
+
+storage/
+
+**/node_modules/
+**/dist/
+**/__pycache__/
