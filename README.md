@@ -20,7 +20,6 @@ A device management solution for Android and iOS devices, integrated with GitLab
 
 4.  **CI/CD & Builds**: Users can trigger a build for a specific branch. Once the pipeline completes, the artifact is available for installation on the managed devices.
     ![Builds Page](./images/builds.png)
-```
 
 ## Setup & Installation
 
